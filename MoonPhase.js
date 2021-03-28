@@ -1,6 +1,6 @@
 // Variables used by Scriptable.
 // These must be at the very top of the file. Do not edit.
-// icon-color: light-gray; icon-glyph: microchip;
+// icon-color: light-gray; icon-glyph: moon;
 let baseUrl =
   "https://raw.githubusercontent.com/fcelsa/ScriptableMoonPhase/master";
 let bgImage = await getImage(baseUrl + "/imgs/background.jpg");
